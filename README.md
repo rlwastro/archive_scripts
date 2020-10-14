@@ -12,4 +12,7 @@ Useful scripts for accessing MAST archival data
 | sweeps_hscv3p1.ipynb | Use a Python interface to [Casjobs](https://mastweb.stsci.edu/hcasjobs) to study proper motions in the SWEEPS field from [HSC](https://archive.stsci.edu/hst/hsc) version 3.1 |
 | HCV_API_demo.ipynb | Query the [Hubble Catalog of Variables (HCV)](https://archive.stsci.edu/hlsp/hcv) using the [catalogs.mast](https://catalogs.mast.stsci.edu) API to study variable stars and galaxies in the [HSC](https://archive.stsci.edu/hst/hsc) |
 | HCV_casjobs_demo.ipynb | Query the [Hubble Catalog of Variables (HCV)](https://archive.stsci.edu/hlsp/hcv) using a Python interface to [Casjobs](https://mastweb.stsci.edu/hcasjobs) to study variable stars and galaxies in the [HSC](https://archive.stsci.edu/hst/hsc) |
-
+| ps1_dr2_api.ipynb | Query the [Pan-STARRS1 (PS1) DR2](https://outerspace.stsci.edu/x/OYOc) source catalog using the [catalogs.mast](https://catalogs.mast.stsci.edu) API |
+| ps1_dr2_query.ipynb | Query the [PS1 DR2](https://outerspace.stsci.edu/x/OYOc) source catalog using a Python interface to [Casjobs](https://mastweb.stsci.edu/ps1casjobs) |
+| ps1image.ipynb | Retrieve images from the [PS1 DR2](https://outerspace.stsci.edu/x/OYOc) survey using the [PS1 image server](https://ps1images.stsci.edu) |
+| ps1warps.ipynb | Retrieve single-epoch "warp" images from the [PS1 DR2](https://outerspace.stsci.edu/x/OYOc) survey using the [PS1 image server](https://ps1images.stsci.edu) |
