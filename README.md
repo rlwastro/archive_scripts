@@ -1,2 +1,2 @@
 # archive_scripts
-Useful scripts for accessing MAST and FIRST archival data
+Useful scripts for accessing MAST archival data
