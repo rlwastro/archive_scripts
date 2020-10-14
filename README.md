@@ -1,7 +1,8 @@
 # archive_scripts
 Useful scripts for accessing MAST archival data
 
-|| Script || Description ||
+| Script | Description |
+| ------ | ----------- |
 | sample_catalog_download.py | Sample script showing how to download
 [Hubble Legacy Archive](https://hla.stsci.edu) source catalogs |
 | der_snr.py | Simple spectroscopic signal-to-noise algorithm described in
